@@ -12,12 +12,6 @@ My name is Dakota, and I'm a Computer Science student and aspiring software engi
 
 `🐧UNIX` and `💲Bash` are my favourite topics, but I also love `PHP`, `MySQL`, `C`, `Java`, and `Python`.
 
-## Education
-
-Okanagan College
-- ASc in Computer Information Systems, 2022
-- Bsc in Computer Information Systems, expected 2024
-
 ## My Hobbies
 
 I really have too many, but they include ⌨️ custom keyboards, 
