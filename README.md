@@ -1,5 +1,7 @@
 # @irradiated
 
+![plot](./)
+
 Hey! My name is Dakota, and I'm a Computer Science student, currently enrolled in a BSc in Computer Information Systems. I'm always looking for ways to expand my programming knowledge.
 
 ## My Interests
