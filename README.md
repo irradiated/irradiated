@@ -1,4 +1,3 @@
-# @irradiated
 
 ![banner](./gh-profile-background.jpg)
 
