@@ -8,7 +8,7 @@ My name is Dakota, and I'm a Computer Science student and aspiring software engi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-flath/)
 
 
-## My Interests
+## Programming Interests
 
 `🐧UNIX` and `💲Bash` are my favourite topics, but I also love `PHP`, `MySQL`, `C`, `Java`, and `Python`.
 
