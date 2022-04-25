@@ -3,7 +3,11 @@
 
 Hey! My name is Dakota, and I'm a Computer Science student, currently enrolled in a BSc in Computer Information Systems. I'm always looking for ways to expand my programming knowledge.
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/dakota-flath/"/>
+
 ## My Interests
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" href=""/>
 
 `🐧UNIX` and `💲Bash` are my favourite topics, but I also love `PHP`, `MySQL`, `C`, `Java`, and `Python`.
 
