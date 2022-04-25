@@ -3,7 +3,7 @@
 
 Hey! 👋 
 
-My name is Dakota, and I'm a Computer Science student and aspiring software engineer.  I'm always looking for ways to expand my programming knowledge.
+My name is Dakota, and I'm a Computer Science student and aspiring software engineer from beautiful British Columbia.  I'm always looking for ways to expand my programming knowledge.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-flath/)
 
