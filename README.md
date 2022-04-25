@@ -1,4 +1,10 @@
-### Hi there 👋
+# @irradiated
+
+Hey! My name is Dakota, and I'm a computer science student, currently enrolled in a BSc in Computer Information Systems.
+
+## My Interests
+
+UNIX and Bash are my favourite topics, but I also love PHP, MySQL, C, Java, and Python.
 
 <!--
 **irradiated/irradiated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
