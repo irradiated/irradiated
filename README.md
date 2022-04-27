@@ -8,11 +8,11 @@ My name is Dakota, and I'm a Computer Science student and aspiring software engi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-flath/)
 
 
-## Programming Interests
+## Programming
 
 `🐧UNIX` and `💲Bash` are my favourite topics, but I also love `PHP`, `MySQL`, `C`, `Java`, and `Python`.
 
-## My Hobbies
+## Hobbies
 
 I really have too many, but they include ⌨️ custom keyboards, 
 🖥️ computer hardware, 👾 video games (both new and old), and 
@@ -20,7 +20,7 @@ I really have too many, but they include ⌨️ custom keyboards,
 
 In my spare time, I tend a herd of 4 guinea pigs! 🐹🐹🐹🐹
 
-[![LinkedIn](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/meowacat/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/meowacat/)
 
 
 
