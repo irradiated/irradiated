@@ -5,9 +5,9 @@ Hey! 👋
 
 My name is Dakota, and I'm a Computer Science student and aspiring software engineer from beautiful British Columbia.  I'm always looking for ways to expand my programming knowledge.
 
-<center>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-flath/)
-</center>
+<p align="center">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-flath/)
+</p>
 
 ## Programming
 
@@ -27,10 +27,10 @@ I really have too many, but they include ⌨️ custom keyboards,
 
 In my spare time, I tend a herd of 4 guinea pigs! 🐹🐹🐹🐹
 
-<center>
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/meowacat/)
-</center>
-    
+<p align="center">
+    [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/meowacat/)
+</p>
+
 <!-- 
 dropdown box
 
