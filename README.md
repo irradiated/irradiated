@@ -19,16 +19,16 @@ My name is Dakota, and I'm a Computer Science student and aspiring software engi
 -->
 
 <details>
-    <summary>Hobbies</summary>
-    ## Hobbies
+<summary>Hobbies</summary>
+## Hobbies
 
-    I really have too many, but they include ⌨️ custom keyboards, 
-    🖥️ computer hardware, 👾 video games (both new and old), and 
-    🎧 headphones. Programming too, of course.
+I really have too many, but they include ⌨️ custom keyboards, 
+🖥️ computer hardware, 👾 video games (both new and old), and 
+🎧 headphones. Programming too, of course.
 
-    In my spare time, I tend a herd of 4 guinea pigs! 🐹🐹🐹🐹
+In my spare time, I tend a herd of 4 guinea pigs! 🐹🐹🐹🐹
 
-    [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/meowacat/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/meowacat/)
 </details>
 
 <!-- 
