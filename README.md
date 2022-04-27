@@ -18,8 +18,6 @@ My name is Dakota, and I'm a Computer Science student and aspiring software engi
 ## Education
 -->
 
-<details>
-<summary>Hobbies</summary>
 ## Hobbies
 
 I really have too many, but they include ⌨️ custom keyboards, 
@@ -29,7 +27,6 @@ I really have too many, but they include ⌨️ custom keyboards,
 In my spare time, I tend a herd of 4 guinea pigs! 🐹🐹🐹🐹
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/meowacat/)
-</details>
 
 <!-- 
 dropdown box
