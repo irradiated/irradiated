@@ -28,12 +28,6 @@ I really have too many, but they include ⌨️ custom keyboards,
 🎧 headphones. Programming too, of course.
 
 In my spare time, I tend a herd of 4 guinea pigs! 🐹🐹🐹🐹
-
-<div align="center">
-
-[![Steam](https://img.shields.io/badge/?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/meowacat/)
-
-</div>
     
 <!-- 
 dropdown box
