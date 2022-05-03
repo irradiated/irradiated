@@ -31,7 +31,7 @@ In my spare time, I tend a herd of 4 guinea pigs! 🐹🐹🐹🐹
 
 <div align="center">
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logoColor=white)](https://steamcommunity.com/id/meowacat/)
+[![Steam](https://img.shields.io/badge/?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/meowacat/)
 
 </div>
     
